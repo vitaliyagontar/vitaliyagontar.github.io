@@ -1,0 +1,252 @@
+* a:visited{
+	color: 	#ac5bc6;
+}
+* a{
+	text-decoration:none; 
+	color:	#ac5bc6;
+}
+#header {
+	color: #000040;
+	background-color:#d0cfce;
+	text-align: center;
+	font-size:80px;
+	font-family:Brush Script MT, sans-serif;
+	width:1320px;
+	position:relative;
+	left:10px;
+	top:-30px;
+}
+#photo img{
+	float:center;
+	height:200px;
+	width: 200px;
+	display: inline-block;	
+	margin-left: 17px;
+	
+}
+#menu table tr{
+	float:center;
+	color: #000040;
+	font-family:Georgia;
+	font-size: 32px;
+}
+#menu table{
+	position:relative;
+	bottom:80px;
+	left: 267px;
+}
+#menu td a{
+	text-decoration:none; 
+	color: #000040;
+}
+#menu td a:visited{
+	color: #000040;
+}
+#mainpicture img{
+	float:center;
+	height:900px;
+	width: 1100px;
+	position: relative;
+    left:120px;
+	bottom:50px;
+}
+#footer{
+	font-size:15px;
+	color: black;
+	text-align:center;
+	font-family:Georgia;
+}
+
+#header2 {
+	color: #d0cfce;
+	background-color:#000040;
+	text-align: center;
+	font-size:60px;
+	font-family:Brush Script MT, sans-serif;
+	width:1200px;
+	position:relative;
+	top:-45px;
+	left:60px;
+}
+#menu2 table tr{
+	float:center;
+	color: #000040;
+	font-family:Georgia;
+	font-size: 25px;
+}
+#menu2 table{
+	position:relative;
+	left:320px;
+}
+#menu2 td a{
+	text-decoration:none; 
+}
+#menu2 td a:visited{
+	color: #000040;
+}
+#photoabout img{
+	float:center;
+	height:400px;
+	width: 495px;
+	position:relative;
+	bottom:55px;
+	left:765px;
+}
+#textabout{
+	color:black;
+	font-size:20px;
+	font-family:Garamond;
+	width:660px;
+	position:relative;
+	bottom:480px;
+	left:60px;
+}
+#footer2{
+	font-size:12px;
+	color: black;
+	text-align:center;
+	font-family:Georgia;
+	position:relative;
+	bottom:375px;
+}
+#experience{
+	font-family:Georgia;
+	position:relative;
+	left:350px;
+	bottom:50px;
+}
+#projects{
+	font-family:Georgia;
+	position:relative;
+	left:230px;
+	bottom:20px;
+}
+#skills{
+	font-family:Georgia;
+	position:relative;
+	left:280px;
+	top:15px;
+}
+#container2, #container3, #container4{
+	background-color:#f0ecf0;
+}
+#footer3{
+	font-size:12px;
+	color: black;
+	text-align:center;
+	font-family:Georgia;
+	position:relative;
+	top:10px;
+}
+.hobbyheader{
+	font-size:22px;
+	color:#000040;
+	font-family:Brush Script MT, sans-serif;
+	position:relative;
+	bottom:70px;
+	left:60px;
+}
+.hobbytext{
+	font-size:18px;
+	font-family:Garamond;
+	width:1200px;
+	position:relative;
+	bottom:70px;
+	left:60px;
+	
+}
+.photobanner img{
+	height: 10%;
+	width: 10%;
+	overflow:hidden;
+	position:relative;
+	bottom: 50px;
+	left:80px;
+	margin-left:25px;
+}
+#countries{
+	position:relative;
+	left:500px;
+}
+.photobanner2 img{
+	height: 11%;
+	width: 11%;
+	overflow:hidden;
+	position:relative;
+	left:7px;
+	margin-left:12px;
+}
+#footer4{
+	font-size:12px;
+	color: black;
+	text-align:center;
+	font-family:Georgia;
+	position:relative;
+	
+}
+#social{
+	position:relative;
+	bottom:30px;
+	left:10px;
+}
+
+#social img{
+	float:center;
+	height:100px;
+	width: 100px;
+	display: inline-block;	
+	margin-left:120px;
+}
+.button{
+	background-color: white;
+	border: none;
+	border-color:white;
+	cursor: pointer;
+	transition: all 0.5s;
+	text-decoration:none;
+}
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 20px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+#emails{
+	font-family:Georgia;
+	font-size:14px;
+	position:relative;
+	left:340px;
+	bottom:60px;
+}
+#phone{
+	font-family:Georgia;
+	font-size:14px;
+	position:relative;
+	left:120px;
+}
+#footer5{
+	font-size:12px;
+	color: black;
+	text-align:center;
+	font-family:Georgia;
+	position:relative;
+	top:145px;
+}
